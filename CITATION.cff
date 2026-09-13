@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use CHARM in academic work, please cite the accompanying manuscript."
+title: "CHARM"
+type: software
+version: 1.0.0
+repository-code: "https://github.com/cedars-coder/CHARM"
+authors:
+  - family-names: "Fu"
+    given-names: "Xuesong"
+    orcid: "https://orcid.org/0009-0001-0994-5313"
+preferred-citation:
+  type: article
+  title: "Nonparametric Change-Point Detection in High-Dimensional Time Series via Convex Hull Areas of Rank Bridges"
+  year: 2026
+  authors:
+    - family-names: "Fu"
+      given-names: "Xuesong"
+    - family-names: "Hu"
+      given-names: "Yao"
+
